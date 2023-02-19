@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPITrainingCreateType.dll"</Assembly>
+		<AddInId>C43E712A-959F-4EC9-AAFD-27F7A2EBA978</AddInId>
+		<FullClassName>RevitAPITrainingCreateType.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Вставка объектов между точками</Text>
+	</AddIn>
+</RevitAddIns>
